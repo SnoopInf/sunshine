@@ -75,6 +75,15 @@ public class MainActivity extends ActionBarActivity {
             forecast.add("Saturday-Cloudy-18/15");
             forecast.add("Sunday-Frosty-6/-1");
             forecast.add("Monday-Foggy-7/5");
+            forecast.add("Saturday-Cloudy-18/15");
+            forecast.add("Sunday-Frosty-6/-1");
+            forecast.add("Monday-Foggy-7/5");
+            forecast.add("Saturday-Cloudy-18/15");
+            forecast.add("Sunday-Frosty-6/-1");
+            forecast.add("Monday-Foggy-7/5");
+            forecast.add("Saturday-Cloudy-18/15");
+            forecast.add("Sunday-Frosty-6/-1");
+            forecast.add("Monday-Foggy-7/5");
 
             ArrayAdapter<String> mForecastAdapter = new ArrayAdapter<String>(
                     getActivity(), R.layout.list_item_forecast,
